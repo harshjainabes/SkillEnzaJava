@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SurveyApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Harsh
+Implementation-Vendor-Id: com.socgen.test
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/surveyapp
+Created-By: Maven Integration for Eclipse
+
